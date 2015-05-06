@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff902a64-3592-4ee4-b1d4-adefde664785" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/Terenzik/BukkitDev/Core.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Michael.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/bukkit_1_8_3_R0_1_SNAPSHOT_latest.xml" />
-    </list>
+    <list default="true" id="ff902a64-3592-4ee4-b1d4-adefde664785" name="Default" comment="" />
     <ignored path="BukkitDev.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,8 +25,8 @@
       <file leaf-file-name="Core.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/me/Terenzik/BukkitDev/Core.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4009434">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.4811321">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#250#251#0" expanded="true" />
@@ -358,8 +354,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/me/Terenzik/BukkitDev/Core.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4009434">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.4811321">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#198#199#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
